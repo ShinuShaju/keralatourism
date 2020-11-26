@@ -42,6 +42,8 @@ p {
   box-shadow: 0 19px 38px rgba(0, 0, 0, 0.02), 0 15px 12px rgba(0, 0, 0, 0.02);
 }
 
+
+
 .breadcrumb {
   padding-left: 0px;
   margin-top: 30px;
@@ -135,7 +137,7 @@ p {
   font-size: 16px;
   font-family: "Open Sans", sans-serif;
   color: #fff;
-  background-color: #2a26fd;
+  background-color: #4e51bf;
   border-radius: 6px;
   padding: 10px 30px;
   font-weight: 600;
